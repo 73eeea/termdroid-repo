@@ -1,0 +1,27 @@
+Codename: termux
+Version: 1
+Architectures: all
+Description: termdroid repository
+Suite: termdroid
+Date: Thu, 29 Jun 2023 13:42:53 UTC
+Components: main
+MD5Sum:
+ f8ae21f93d9dcd935670ae6a39cc5aef 616 main/binary-all/Packages
+ 4adcbff537e31b2b34d9ec6ffe7d708d 512 main/binary-all/Packages.xz
+ 3b768052cd347228185de32925e9b716 97 main/Contents-all
+ 2bb4b9421d6a6f209f1879208291e822 116 main/Contents-all.xz
+SHA1:
+ 4907111a219263b6e85aa7da1eb4c35aa6b4fd09 616 main/binary-all/Packages
+ 0a44252a306985539b43d7a74ad765b1a2596e67 512 main/binary-all/Packages.xz
+ de2fa2a62e53a1e6d463289e83efd18cd45fce9d 97 main/Contents-all
+ aa7eec98158cd41fa57161e24aa612d88c68f440 116 main/Contents-all.xz
+SHA256:
+ 2ccb3fc0dfd1e7099516d19bc3d9da36f245d2a33428a34fff575198e6dd38e8 616 main/binary-all/Packages
+ 788a206e3c21e63fd4d52528ce18a8dbff751c66c5e31d43469dacf3e13063a1 512 main/binary-all/Packages.xz
+ e1c1f08a3d7e74772e4f06a3524492ae0214a4183d8bfe12fa1eb95bfae6b821 97 main/Contents-all
+ b229e9602674907d86d58be9649e51a9f41ac590974e71cc0cfca1e604cafe23 116 main/Contents-all.xz
+SHA512:
+ 8a9733a7cb6dba3be8eedde091553b4ba3c366dea549eda854f0b55e92f473e4d17c955bbefd4ecd4a8c8ad34023dba5e622174094408a8382271cd9068b9c89 616 main/binary-all/Packages
+ 0c3ca5ee46233929dc7acc3c7768471900a130b5e6ca8352df6264f923b97621eb70c8c03e5872acc97a663b616a9f137781168f553d6ce394f6f8048eb688d8 512 main/binary-all/Packages.xz
+ 77d17f464f2f812626480024f989ba06ed7e9736278d83f205b7d0afa2859e1df9002aa7201c660af70b217c337c0e90c7fb1f0907a942122708af6070d6cd7e 97 main/Contents-all
+ 2b9c93275fdc5d495b4aef1aa8f6f9d8ed18a0022319d21b08323b6d8df40df6f921bcc496b5a7107836aa6052447fe6c80b839fb9264595119270486166a3fa 116 main/Contents-all.xz

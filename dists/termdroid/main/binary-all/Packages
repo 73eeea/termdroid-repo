@@ -1,0 +1,13 @@
+Package: hello-termdroid
+Version: 1.0
+Architecture: all
+Maintainer: Internal Pointers <info@internalpointers.com>
+Description: A program that greets you.
+ You can add a longer description here. Mind the space at the beginning of this paragraph.
+Filename: dists/termdroid/main/binary-all/termdroid-hello.deb
+Size: 908
+MD5Sum: 80ed883b970d5e3852230eff8fcf80a1
+SHA1: c3358add8f323fc63dd4f815d1a034ed67bc128c
+SHA256: 2f3eb07ab69ad3bcf29e4541263cde4f32d03126fe233d58bbc66f53367e06fc
+SHA512: 660162cf2dd5dd3cd120cd6540f692438e8eca82b457d3844e5954e898a79f9bc0251bf3f33a0630f4dd60e4a9283318634573b59e77cd4241c68d573007424d
+
